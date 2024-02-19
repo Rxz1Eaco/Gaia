@@ -18,7 +18,7 @@ if btn:
     )
 #st.image(
    # "https://www.blogsoestado.com/danielmatos/files/2015/12/lixo-slz.jpg",
-   # caption="Imagem Pókemon",
+   # caption="Imagem Lixo",
   #  width=300,
   #  use_column_width=True,
 #)
