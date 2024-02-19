@@ -18,3 +18,9 @@ A preservação do meio ambiente vai além da coleta seletiva e abrange a conser
 - **Melhoria da qualidade de vida:** Proteção da saúde humana e equilíbrio nos ecossistemas.
 
 Promover práticas de coleta seletiva e preservação do meio ambiente é essencial para garantir um futuro sustentável, equilibrando as necessidades presentes com a capacidade regenerativa do planeta.
+
+# Sobre o Projeto:
+- O projeto **Gaia** visa melhorar a eficiência e a sustentabilidade da coleta seletiva de resíduos, analisando dados coletados em um ecoponto específico.
+- Utiliza-se técnicas de análise de dados e visualização.
+- Busca identificar padrões de uso, volumes de reciclagem e áreas de melhoria na gestão de resíduos.
+- Fornece insights valiosos para otimizar a coleta, reduzir custos operacionais e promover práticas mais sustentáveis de reciclagem."
